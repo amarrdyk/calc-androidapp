@@ -1,3 +1,4 @@
+//Developed by Amar
 package com.example.calc;
 
 import androidx.appcompat.app.AppCompatActivity;
